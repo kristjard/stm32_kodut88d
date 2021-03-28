@@ -1,0 +1,8 @@
+main.c:60:6:my_interrupt	4	static
+main.c:65:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:109:12:time_now	24	static
+main.c:78:5:main	32	static
+main.c:115:8:switch_led	16	static
+main.c:129:8:blinker	32	static
+main.c:204:6:SystemClock_Config	88	static
+main.c:258:6:Error_Handler	4	static,ignoring_inline_asm
